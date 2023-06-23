@@ -458,7 +458,7 @@ ul {
 .special {
   width: 100%;
   height: 50vh;
-  background-image: url(banner.jpg);
+background-image: url(/image/banner.jpg);
   background-size: cover;
   background-position: center center;
   display: flex;
